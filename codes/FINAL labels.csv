@@ -1,0 +1,143 @@
+﻿Classid,Name
+0,speed limit (5km/h)
+1,speed limit (15km/h)
+2,speed limit (20km/h)
+3,speed limit (30km/h)
+4, speed limit (40km/h)
+5,speed limit (50km/h)
+6,speed limit (60km/h)
+7,speed limit (70km/h)
+8, speed limit (80km/h)
+9,Speed limit (100km/h)
+10, Speed limit (120km/h)
+11, End of maximum speed limit (40km/h)
+12,End of maximum speed limit (50km/h)
+13,End of speed limit (80km/h)
+14,Vechiles over 3.5 metric tons prohibited
+15,Vechiles over 5 metric tons prohibited
+16,No passing
+17,End of no passing by vechiles over 3.5 metric tons
+18,End of no passing
+19,Roundabout mandatory
+20,Keep right side
+21,Keep left side
+22,give way
+23,Stop
+24,Dangerous curve to the left
+25,Dangerous curve to the right
+26,No passing for vechiles over 3.5 metric tons
+27,Right-of-way at the next intersection
+28,Priority road
+29,No vechiles
+30,No entry
+31,General caution
+32,Double curve
+33,Bumpy road
+34,Slippery road
+35, Road narrows on the right
+36,Road work
+37,Traffic signals
+38,Pedestrians
+39,Children crossing
+40,Bicycles crossing
+41,Beware of ice/snow
+42,Wild animals crossing
+43,End of all speed and passing limits
+44,Turn right ahead
+45,Turn left ahead
+46, Ahead only
+47,Go straight or right
+48,Go straight or left
+49,No proceed straight and left turns
+50,control
+51,No entry for vehicular traffic
+52,no parking
+53,No entry for vehicular and pedestrians
+54,Accident area
+55,Level crossing with barriers ahead
+56,Multiple curve
+57,Roadworks ahead
+58, Level crossing without barriers ahead
+59,"Double curve, with turn right first, then left"
+60,Cross-village road
+61,T-junction for turn right and/or proceed straight
+62,Steep ascent
+63, Steep descent
+64,Curve with turn left
+65,Curve with turn right
+66,straight prohibitted or no entry
+67,No left turn
+68,left not prohibitted
+69,right not prohibitted
+70, no overtaking
+71,no u-turns
+72,No motor vehicles
+73,horn prohibitted
+74,compulsory ahead or turn right
+75,compulsory ahead only
+76,compulsory turn left ahead
+77,Turn left and/or right
+78,compulsory turn right ahead
+79,compulsory keep left
+80,Limited-access road
+81,compulsory sound horn
+82,Bicycles only
+83,U-turn
+84,Turn left and/or right to detour
+85,Traffic light
+86,other danger
+87,pedestrain crossing ahead
+88,bicycle
+89, School ahead
+90,height limit (3.5)
+91,horn prohibited
+92,left turn prohibited
+93,length limit (10m)
+94,overtaking prohibited
+95,pedestrains prohibited
+96,right turn prohibited
+97, axle load limit (4t)
+98,compulsory sound horn
+99,compulsory turn left
+100,compulsory turn right
+101,no parking
+102, restriction end sign
+103,righthand pin bend
+104,width limit (2m)
+105,50-100 meters
+106,200 meters
+107,barrier ahead
+108,dangrous dip
+109, major road ahead
+110,staggered intersection
+111,T intersection
+112, CATTLE
+113,CROSSROAD
+114,FALLING ROCKS
+115,FERRY
+116,GAP IN MEDIAN
+117,school ahead
+118,SIDE ROAD LEFT
+119,SIDE ROAD RIGHT
+120,Y-INTERSECTION
+121,All Motor Vehicles Prohibited
+122,bullock cart and cart prohibited
+123,Bullock Cart Prohibited
+124,Cycle Prohibited
+125,Hand Cart Prohibited
+126,One Way Sign
+127,Straight Prohibited or No Entry
+128,Tonga Prohibited
+129,Truck Prohibited
+130,Vehicles Prohibited in Both Directions
+131, Cycle Crossing
+132,Left Reverse Bend
+133,Loose Gravel
+134,Narrow Bridge
+135, Narrow Road Ahead
+136,Pedestrian Crossing
+137,Right Reverse Bend
+138,Road Wideness Ahead
+139,Slippery Road
+140,Steep Ascent
+141, Steep Descent
